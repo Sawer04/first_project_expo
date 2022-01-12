@@ -1,2 +1,2 @@
 console.log("hola")
-console.log("viva la lechona")
+console.log("viva el tamal")
